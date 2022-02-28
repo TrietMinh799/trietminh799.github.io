@@ -1,12 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site</title><link>https://trietminh799.github.io/</link><description>Recent content on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 28 Feb 2022 15:02:09 +0700</lastBuildDate><atom:link href="https://trietminh799.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>https://trietminh799.github.io/posts/introduction/</link><pubDate>Mon, 28 Feb 2022 15:02:09 +0700</pubDate><guid>https://trietminh799.github.io/posts/introduction/</guid><description>Sucks post đầu tiên của cái website này Thì không có gì nhiều để nói ngoài việc giới thiệu nên vào việc chính luôn.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site</title><link>https://trietminh799.github.io/</link><description>Recent content on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 28 Feb 2022 16:49:59 +0700</lastBuildDate><atom:link href="https://trietminh799.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Java Helloworld</title><link>https://trietminh799.github.io/posts/series/java/java-helloworld/</link><pubDate>Mon, 28 Feb 2022 16:49:59 +0700</pubDate><guid>https://trietminh799.github.io/posts/series/java/java-helloworld/</guid><description>Hello World, một chương trình mà ta rất quen thuộc, thứ đã được trong giới lập trình tôn lên làm meme
+Để không phụ lòng ae, thì giờ ta sẽ tự mình làm hello world để cho nó bằng bạn bằng nào.
+Ta tạo một project trong intellij community bằng cách sau:
+Bấm vào new project . Chọn Bấm next hết toàn bộ và cuối cùng đặt tên project, ( cho nó ở ổ nào cũng được ) Ở đây tên project là tutorial và lưu ở ổ D nhé</description><content>&lt;p>Hello World, một chương trình mà ta rất quen thuộc, thứ đã được trong giới lập trình tôn lên làm meme&lt;/p>
+&lt;p>&lt;img src="https://starecat.com/content/wp-content/uploads/time-to-learn-to-code-working-hard-to-get-hello-world-meme.jpg" alt="Meme1">&lt;/p>
+&lt;hr>
+&lt;p>&lt;img src="https://i.redd.it/wwlt3ytr5hh41.jpg" alt="Meme2">&lt;/p>
+&lt;p>Để không phụ lòng ae, thì giờ ta sẽ tự mình làm hello world để cho nó bằng bạn bằng nào.&lt;/p>
+&lt;p>Ta tạo một project trong intellij community bằng cách sau:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Bấm vào new project
+.
+&lt;img src="https://trietminh799.github.io/resources//_gen/images/java/helloworld/newproject.jpg" alt="Create new project">&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Chọn
+&lt;img src="https://trietminh799.github.io/resources/_gen/images/java/helloworld/selectoption1.jpg" alt="Select options">&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bấm next hết toàn bộ và cuối cùng đặt tên project, ( cho nó ở ổ nào cũng được )
+&lt;img src="https://trietminh799.github.io/resources/_gen/images/java/helloworld/selectoption2.jpg" alt="Select options">
+&lt;em>Ở đây tên project là tutorial và lưu ở ổ D nhé&lt;/em>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Sau đấy copy đoạn code sau:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-java" data-lang="java">&lt;span style="color:#66d9ef">public&lt;/span> &lt;span style="color:#66d9ef">class&lt;/span> &lt;span style="color:#a6e22e">Main&lt;/span> &lt;span style="color:#f92672">{&lt;/span>
+&lt;span style="color:#66d9ef">public&lt;/span> &lt;span style="color:#66d9ef">static&lt;/span> &lt;span style="color:#66d9ef">void&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>&lt;span style="color:#f92672">(&lt;/span>String&lt;span style="color:#f92672">[]&lt;/span> args&lt;span style="color:#f92672">)&lt;/span> &lt;span style="color:#f92672">{&lt;/span>
+System&lt;span style="color:#f92672">.&lt;/span>&lt;span style="color:#a6e22e">out&lt;/span>&lt;span style="color:#f92672">.&lt;/span>&lt;span style="color:#a6e22e">println&lt;/span>&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#e6db74">&amp;#34;Hello World&amp;#34;&lt;/span>&lt;span style="color:#f92672">);&lt;/span>
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;span style="color:#f92672">}&lt;/span>
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>Nếu thành công, ta sẽ được màn hình sau:
+&lt;img src="https://trietminh799.github.io/resources/_gen/images/java/helloworld/helloworldsuccess.jpg" alt="Hello World">&lt;/p>
+&lt;p>Chúc mừng bạn đã thành công.&lt;/p>
+&lt;p>Ở bài sau, mình sẽ giải thích cấu trúc của môn file java.&lt;/p></content></item><item><title>Java Introduction</title><link>https://trietminh799.github.io/posts/series/java/java-introduction/</link><pubDate>Mon, 28 Feb 2022 15:50:07 +0700</pubDate><guid>https://trietminh799.github.io/posts/series/java/java-introduction/</guid><description>Java là ngôn ngữ lập trình hướng đối tượng được tạo ra vào khoảng năm 1995. Tới đây nó đã có hơn 17 bản với vô số các biến thể.
+&amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip;
+Bạn đang mong nó sẽ dài dòng ư, không! Những thứ đấy ta sẽ tìm hiểu xuyên suốt trong cái series ; bây giờ ta chỉ cần biết nhiêu đây thôi .
+Trong bài tiếp theo ta sẽ tạo một project và hello world nó.</description><content>&lt;p>Java là ngôn ngữ lập trình hướng đối tượng được tạo ra vào khoảng năm 1995. Tới đây nó đã có hơn 17 bản với vô số các biến thể.&lt;/p>
+&lt;p>&amp;hellip;
+&amp;hellip;
+&amp;hellip;
+&amp;hellip;&lt;/p>
+&lt;p>Bạn đang mong nó sẽ dài dòng ư, không! Những thứ đấy ta sẽ tìm hiểu xuyên suốt trong cái series ; bây giờ ta chỉ cần biết nhiêu đây thôi .&lt;/p>
+&lt;p>Trong bài tiếp theo ta sẽ tạo một project và hello world nó.&lt;/p>
+&lt;p>Donee&amp;hellip;.&lt;/p></content></item><item><title>Introduction</title><link>https://trietminh799.github.io/posts/introduction/</link><pubDate>Mon, 28 Feb 2022 15:02:09 +0700</pubDate><guid>https://trietminh799.github.io/posts/introduction/</guid><description>Sucks post đầu tiên của cái website này Đương nhiên website sẽ là về lập trình nhưng đôi lúc có chuyện tầm phào luôn
+Thì không có gì nhiều để nói ngoài việc giới thiệu nên vào việc chính luôn.
 Những cái tutorial mà website này làm sẽ bao gồm
-Đương nhiên sẽ là lập trình
 C++ :
 Java :
 Nhiêu đây là xong post của website. Thanks for reading</description><content>&lt;h2 id="sucks-post-đầu-tiên-của-cái-website-này">Sucks post đầu tiên của cái website này&lt;/h2>
+&lt;p>Đương nhiên website sẽ là về lập trình nhưng đôi lúc có chuyện tầm phào luôn&lt;/p>
 &lt;p>Thì không có gì nhiều để nói ngoài việc giới thiệu nên vào việc chính luôn.&lt;/p>
 &lt;p>Những cái tutorial mà website này làm sẽ bao gồm&lt;/p>
-&lt;p>Đương nhiên sẽ là lập trình&lt;/p>
 &lt;p>C++ :&lt;/p>
 &lt;p>Java :&lt;/p>
 &lt;p>Nhiêu đây là xong post của website. Thanks for reading&lt;/p></content></item></channel></rss>
