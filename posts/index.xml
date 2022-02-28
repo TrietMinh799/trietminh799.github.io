@@ -1,36 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on My New Hugo Site</title><link>https://trietminh799.github.io/posts/</link><description>Recent content in Posts on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 28 Feb 2022 16:49:59 +0700</lastBuildDate><atom:link href="https://trietminh799.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Java Helloworld</title><link>https://trietminh799.github.io/posts/series/java/java-helloworld/</link><pubDate>Mon, 28 Feb 2022 16:49:59 +0700</pubDate><guid>https://trietminh799.github.io/posts/series/java/java-helloworld/</guid><description>Hello World, một chương trình mà ta rất quen thuộc, thứ đã được trong giới lập trình tôn lên làm meme
 Để không phụ lòng ae, thì giờ ta sẽ tự mình làm hello world để cho nó bằng bạn bằng nào.
 Ta tạo một project trong intellij community bằng cách sau:
-Bấm vào new project . Chọn Bấm next hết toàn bộ và cuối cùng đặt tên project, ( cho nó ở ổ nào cũng được ) Ở đây tên project là tutorial và lưu ở ổ D nhé</description><content>&lt;p>Hello World, một chương trình mà ta rất quen thuộc, thứ đã được trong giới lập trình tôn lên làm meme&lt;/p>
+Bấm vào new project . Chọn Bấm next hết toàn bộ và cuối cùng đặt tên project, ( cho nó ở ổ nào cũng được ) Ở đây tên project là tutorial và lưu ở ổ D nhé Sau đấy copy đoạn code sau:</description><content>&lt;p>Hello World, một chương trình mà ta rất quen thuộc, thứ đã được trong giới lập trình tôn lên làm meme&lt;/p>
 &lt;p>&lt;img src="https://starecat.com/content/wp-content/uploads/time-to-learn-to-code-working-hard-to-get-hello-world-meme.jpg" alt="Meme1">&lt;/p>
 &lt;hr>
 &lt;p>&lt;img src="https://i.redd.it/wwlt3ytr5hh41.jpg" alt="Meme2">&lt;/p>
 &lt;p>Để không phụ lòng ae, thì giờ ta sẽ tự mình làm hello world để cho nó bằng bạn bằng nào.&lt;/p>
 &lt;p>Ta tạo một project trong intellij community bằng cách sau:&lt;/p>
 &lt;ol>
-&lt;li>
-&lt;p>Bấm vào new project
-.
-&lt;img src="https://trietminh799.github.io/resources//_gen/images/java/helloworld/newproject.jpg" alt="Create new project">&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Chọn
-&lt;img src="https://trietminh799.github.io/resources/_gen/images/java/helloworld/selectoption1.jpg" alt="Select options">&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Bấm next hết toàn bộ và cuối cùng đặt tên project, ( cho nó ở ổ nào cũng được )
-&lt;img src="https://trietminh799.github.io/resources/_gen/images/java/helloworld/selectoption2.jpg" alt="Select options">
-&lt;em>Ở đây tên project là tutorial và lưu ở ổ D nhé&lt;/em>&lt;/p>
-&lt;/li>
+&lt;li>Bấm vào new project
+.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="https://i.imgur.com/6QNLW7l.jpg" alt="Imgur">&lt;/p>
+&lt;ol start="2">
+&lt;li>Chọn&lt;/li>
+&lt;/ol>
+&lt;p>&lt;img src="https://i.imgur.com/ckDZfPK.jpg" alt="Imgur">&lt;/p>
+&lt;ol start="3">
+&lt;li>Bấm next hết toàn bộ và cuối cùng đặt tên project, ( cho nó ở ổ nào cũng được )
+&lt;img src="https://i.imgur.com/TULHqOg.jpg" alt="Imgur">
+&lt;em>Ở đây tên project là tutorial và lưu ở ổ D nhé&lt;/em>&lt;/li>
 &lt;/ol>
 &lt;p>Sau đấy copy đoạn code sau:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-java" data-lang="java">&lt;span style="color:#66d9ef">public&lt;/span> &lt;span style="color:#66d9ef">class&lt;/span> &lt;span style="color:#a6e22e">Main&lt;/span> &lt;span style="color:#f92672">{&lt;/span>
-&lt;span style="color:#66d9ef">public&lt;/span> &lt;span style="color:#66d9ef">static&lt;/span> &lt;span style="color:#66d9ef">void&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>&lt;span style="color:#f92672">(&lt;/span>String&lt;span style="color:#f92672">[]&lt;/span> args&lt;span style="color:#f92672">)&lt;/span> &lt;span style="color:#f92672">{&lt;/span>
-System&lt;span style="color:#f92672">.&lt;/span>&lt;span style="color:#a6e22e">out&lt;/span>&lt;span style="color:#f92672">.&lt;/span>&lt;span style="color:#a6e22e">println&lt;/span>&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#e6db74">&amp;#34;Hello World&amp;#34;&lt;/span>&lt;span style="color:#f92672">);&lt;/span>
-&lt;span style="color:#f92672">}&lt;/span>
-&lt;span style="color:#f92672">}&lt;/span>
-&lt;/code>&lt;/pre>&lt;/div>&lt;p>Nếu thành công, ta sẽ được màn hình sau:
-&lt;img src="https://trietminh799.github.io/resources/_gen/images/java/helloworld/helloworldsuccess.jpg" alt="Hello World">&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-java" data-lang="java">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">public&lt;/span> &lt;span style="color:#66d9ef">class&lt;/span> &lt;span style="color:#a6e22e">Main&lt;/span> &lt;span style="color:#f92672">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">public&lt;/span> &lt;span style="color:#66d9ef">static&lt;/span> &lt;span style="color:#66d9ef">void&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>&lt;span style="color:#f92672">(&lt;/span>String&lt;span style="color:#f92672">[]&lt;/span> args&lt;span style="color:#f92672">)&lt;/span> &lt;span style="color:#f92672">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> System&lt;span style="color:#f92672">.&lt;/span>&lt;span style="color:#a6e22e">out&lt;/span>&lt;span style="color:#f92672">.&lt;/span>&lt;span style="color:#a6e22e">println&lt;/span>&lt;span style="color:#f92672">(&lt;/span>&lt;span style="color:#e6db74">&amp;#34;Hello World&amp;#34;&lt;/span>&lt;span style="color:#f92672">);&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">}&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Nếu thành công, ta sẽ được màn hình sau:
+&lt;img src="https://i.imgur.com/SHeh3G1.jpg" alt="Imgur">&lt;/p>
 &lt;p>Chúc mừng bạn đã thành công.&lt;/p>
 &lt;p>Ở bài sau, mình sẽ giải thích cấu trúc của môn file java.&lt;/p></content></item><item><title>Java Introduction</title><link>https://trietminh799.github.io/posts/series/java/java-introduction/</link><pubDate>Mon, 28 Feb 2022 15:50:07 +0700</pubDate><guid>https://trietminh799.github.io/posts/series/java/java-introduction/</guid><description>Java là ngôn ngữ lập trình hướng đối tượng được tạo ra vào khoảng năm 1995. Tới đây nó đã có hơn 17 bản với vô số các biến thể.
 &amp;hellip; &amp;hellip; &amp;hellip; &amp;hellip;
