@@ -25,13 +25,15 @@ Ta tạo một project trong intellij community bằng cách sau:
 
 1. Bấm vào new project
 .
-![Create new project](/resources//_gen/images/java/helloworld/newproject.jpg)
 
-1. Chọn 
-![Select options](/resources/_gen/images/java/helloworld/selectoption1.jpg)
+![Imgur](https://i.imgur.com/6QNLW7l.jpg)
 
-1. Bấm next hết toàn bộ và cuối cùng đặt tên project, ( cho nó ở ổ nào cũng được )
-![Select options](/resources/_gen/images/java/helloworld/selectoption2.jpg)
+2. Chọn 
+
+![Imgur](https://i.imgur.com/ckDZfPK.jpg)
+
+3. Bấm next hết toàn bộ và cuối cùng đặt tên project, ( cho nó ở ổ nào cũng được )
+![Imgur](https://i.imgur.com/TULHqOg.jpg)
 *Ở đây tên project là tutorial và lưu ở ổ D nhé*
 
 Sau đấy copy đoạn code sau:
@@ -45,7 +47,7 @@ public class Main {
 ```
 
 Nếu thành công, ta sẽ được màn hình sau: 
-![Hello World](/resources/_gen/images/java/helloworld/helloworldsuccess.jpg)
+![Imgur](https://i.imgur.com/SHeh3G1.jpg)
 
 Chúc mừng bạn đã thành công.
 
