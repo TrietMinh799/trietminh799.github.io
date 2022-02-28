@@ -5,11 +5,11 @@ draft: false
 ---
 ## Sucks post đầu tiên của cái website này
 
+Đương nhiên website sẽ là về lập trình nhưng đôi lúc có chuyện tầm phào luôn
+
 Thì không có gì nhiều để nói ngoài việc giới thiệu nên vào việc chính luôn.
 
 Những cái tutorial mà website này làm sẽ bao gồm 
-
-Đương nhiên sẽ là lập trình
 
 C++ :
 
