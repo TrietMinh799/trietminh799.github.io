@@ -18,5 +18,12 @@ Những cái tutorial mà website này làm sẽ bao gồm
 C++ :
 
 Java :
+- [Introduction](/content/posts/series/java/java-introduction.md)
 
 Nhiêu đây là xong post của website. Thanks for reading
+
+Những điều website này sẽ làm trong năm 2022
+
+- Xong được 2 series Java và C++.
+- Phải tạo được một thứ nào đấy hay hay.
+- Phải kiếm được một ít người đọc.
