@@ -3,7 +3,7 @@ title = "Introduction"
 date = 2022-02-28T15:02:09+07:00
 draft = false
 author = "TrietMinh"
-description = "Introduction về cái website này",
+description = "Introduction về cái website này"
 showFullContent = false
 +++
 
